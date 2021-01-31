@@ -1,0 +1,5 @@
+package com.warbabank.car.model;
+
+public class Customer {
+
+}

@@ -1,0 +1,5 @@
+package com.warbabank.car.repository;
+
+public class CustomerRepository {
+
+}

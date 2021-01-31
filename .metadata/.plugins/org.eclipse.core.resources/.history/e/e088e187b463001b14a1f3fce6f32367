@@ -1,0 +1,5 @@
+package com.warbabank.car.exception;
+
+public class CarServicesNotFoundException {
+
+}

@@ -1,0 +1,5 @@
+package com.warbabank.car.swaggerconfig;
+
+public class SwaggerConfig {
+
+}
